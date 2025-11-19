@@ -11,15 +11,7 @@ _das ist mein Italic bzw. Kursiv_
 2. numbered List
 3. numbered List
 
- 
-
-
-
-
-
-
-
-
-
 Ich habe etwas über Grundlagen der Markdown gelernt.\
-Eine Tabelle habe ich aber nicht erstellen können.
+Eine Tabelle habe ich aber nicht erstellen können.  
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
